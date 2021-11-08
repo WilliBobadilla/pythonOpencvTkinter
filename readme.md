@@ -1,11 +1,12 @@
 # GUI with Opencv and Tkinter :camera: :computer:
 
 This project is basically an example on how to use a GUI with python and opencv, in this case with the built-in library _Tkinter_.
+In this example you can load an image and use as a filter(like Instagram for example). Just a Demo. Nothing too useful.
 
 ## Screenshoots :iphone:
 
 <p float="left">
-<img src="https://github.com/WilliBobadilla/pythonOpencvTkinter/blob/master/1.png"  width="45%" height="25%" />
+<img src="https://github.com/WilliBobadilla/pythonOpencvTkinter/blob/master/1.jpg"  width="45%" height="25%" />
 <img src="https://github.com/WilliBobadilla/pythonOpencvTkinter/blob/master/2.png"  width="45%" height="25%" />
 </p>
 
@@ -41,6 +42,10 @@ pip install -r requirements.txt
 ```bash
 python test1.py
 ```
+
+## Notes :page_with_curl:
+
+1. When you apply the filter, it changes his color space, maybe is a filter, i have to fix that.
 
 ## Author :man:
 
