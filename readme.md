@@ -5,7 +5,8 @@ This project is basically an example on how to use a GUI with python and opencv,
 ## Screenshoots :iphone:
 
 <p float="left">
-<img src="https://github.com/WilliBobadilla/paintOpencv/blob/master/screenshoots/1.png"  width="45%" height="25%" />
+<img src="https://github.com/WilliBobadilla/pythonOpencvTkinter/blob/master/1.png"  width="45%" height="25%" />
+<img src="https://github.com/WilliBobadilla/pythonOpencvTkinter/blob/master/2.png"  width="45%" height="25%" />
 </p>
 
 ## Tools :gear:
@@ -13,19 +14,20 @@ This project is basically an example on how to use a GUI with python and opencv,
 1. Python
 2. Opencv
 3. Numpy
+4. PIL
 
 ## How to use :page_with_curl:
 
 1. Download repo
 
 ```bash
-git clone https://github.com/WilliBobadilla/paintOpencv.git
+git clone https://github.com/WilliBobadilla/pythonOpencvTkinter
 ```
 
 2. Enter in the folder
 
 ```bash
-cd paintOpencv
+cd pythonOpencvTkinter
 ```
 
 3. Install requirements
@@ -37,7 +39,7 @@ pip install -r requirements.txt
 4. Run the script
 
 ```bash
-python paint.py
+python test1.py
 ```
 
 ## Author :man:
